@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/)
+[![MasterHead]([https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/])
 
 <h1 align="center">Hi 👋, I'm Abdul Razzaq</h1>
 <h3 align="center">A passionate learner and Front-end developer</h3>
