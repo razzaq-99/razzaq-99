@@ -1,16 +1,16 @@
-[![MasterHead]([https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/](https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/))
+[![MasterHead](https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Abdul Razzaq</h1>
-<h3 align="center">A passionate learner and flutter developer</h3>
+<h3 align="center">A passionate learner and Front-end developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=razzaq-99&label=Profile%20views&color=0e75b6&style=flat" alt="razzaq-99" /> </p>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **website development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **web dev**
 
-- 💬 Ask me about **C++ , Java , Flutter**
+- 💬 Ask me about **C++ , Java , Flutter,web dev**
 
 - 📫 How to reach me **ar8937562@gmail.com**
 
