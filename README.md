@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **web dev**
 
-- 💬 Ask me about **C++ , Java , Flutter,web dev**
+- 💬 Ask me about **C++ , Java , Flutter , web dev**
 
 - 📫 How to reach me **ar8937562@gmail.com**
 
