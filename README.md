@@ -1,4 +1,4 @@
-[![MasterHead](https://referbruv.com/wp-content/uploads/2022/05/flutter-banner.png)
+[![MasterHead](https://www.linkedin.com/in/abdul-razzaq-851715251/overlay/background-image/)
 
 <h1 align="center">Hi 👋, I'm Abdul Razzaq</h1>
 <h3 align="center">A passionate learner and flutter developer</h3>
