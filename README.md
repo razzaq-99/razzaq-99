@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, my name is Abdul Razzaq
+#### Data Analyst*
+![Data Analyst*]()
 
-<!--
-**razzaq-99/razzaq-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently working on Data Analytics. I am quick learner and have alot of experience in team building and team management. I also worked on application development and have 2 years of experience. I am Beta MLSA and also worked in other communities and socities.
 
-Here are some ideas to get you started:
+Skills: Data Analytics* / Flutter dev / Front-end dev / SEO writing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
+
+
+
+
+- 🔭 I’m currently working on Data Analytics
+- 🌱 I’m currently learning Data Analytics
+- 👯 I’m looking to collaborate on Data Analysis projects
+- 💬 Ask me about Data Analytics, Flutter dev, Front-end dev, SEO Writing
+- 📫 How to reach me: abdul.razzaq@studentambassadors
+- 😄 Pronouns: He/His/Him
+- ⚡ Fun fact: I love three things more and more (Cricket, Tea and Memes)
 -->
