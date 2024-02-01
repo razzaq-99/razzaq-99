@@ -17,8 +17,9 @@ Skills: Data Analytics* / Flutter dev / Front-end dev / SEO writing
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/razzaq-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdul-razzaq-851715251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abrzk_._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21509155)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@CodeProduct)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://personal-website-azure-xi.vercel.app/)  
 
 ## Some Work on Application Development
-<a<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Shop_page.png" width='170'>
-<img src="https://github.com/razzaq-99/razzaq-99/blob/main/file_storage_flutter.png" width='170'>
+<a<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Shop_page.png" width='190'>
+<img src="https://github.com/razzaq-99/razzaq-99/blob/main/file_storage_flutter.png" width='190'>
+<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Login_Page.jpg" width='190'>
 /></a>
 
 
