@@ -1,7 +1,7 @@
 
 <img src="https://github.com/razzaq-99/razzaq-99/blob/main/Abdul%20Razzaq.png">
-# Hi there 👋
-- Data Analyst*
+## Hi there 👋
+
 
 I am currently working on Data Analytics. I am quick learner and have alot of experience in team building and team management. I also worked on application development and have 2 years of experience. I am Beta MLSA and also worked in other communities and socities.
 
