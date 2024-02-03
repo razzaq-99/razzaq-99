@@ -1,3 +1,5 @@
+
+<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Abdul%20Razzaq.png">
 ### Hi there 👋, my name is Abdul Razzaq
 #### Data Analyst*
 ![Data Analyst*](https://www.linkedin.com/in/abdul-razzaq-851715251/)
