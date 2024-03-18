@@ -21,6 +21,7 @@ Skills: Data Analytics* / Flutter dev / Front-end dev / SEO writing
 <a<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Shop_page.png" width='190'>
 <img src="https://github.com/razzaq-99/razzaq-99/blob/main/file_storage_flutter.png" width='190'>
 <img src="https://github.com/razzaq-99/razzaq-99/blob/main/Login_Page.jpg" width='170'>
+<img src = "https://github.com/razzaq-99/SuperStore_Sales_Analysis/blob/master/SuperStore_Sales_Dashboard_2.png" width="250" >
 /></a>
 
 
