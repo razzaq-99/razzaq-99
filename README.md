@@ -1,6 +1,4 @@
 
-<img src="https://github.com/razzaq-99/razzaq-99/blob/main/Abdul%20Razzaq.png">
-
 ## Hi 👋
 
 🚀 Exploring Agentic AI, GenAI, RAG & LLMs
