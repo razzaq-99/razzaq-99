@@ -1,18 +1,27 @@
 
 <img src="https://github.com/razzaq-99/razzaq-99/blob/main/Abdul%20Razzaq.png">
-## Hi there 👋
+
+## Hi 👋
+
+🚀 Exploring Agentic AI, GenAI, RAG & LLMs
+I’m currently working at the intersection of Agentic AI and Generative AI, building intelligent, autonomous solutions using RAG (Retrieval-Augmented Generation) and Large Language Models (LLMs). As a Beta Microsoft Learn Student Ambassador (MLSA), I actively contribute to the tech community and have led multiple teams with strong leadership and collaboration skills.
+
+💡 With a background in application development and over a year of hands-on experience, I’ve worked on various real-world projects and thrive in dynamic, fast-paced environments. I'm a quick learner passionate about leveraging AI and modern tech to solve impactful problems.
+
+🛠️ Skills:
+- Agentic AI
+- AI Automation
+- GenAI
+- RAG & LLMs
+- Autonomous Systems
 
 
-I am currently working on Data Analytics. I am quick learner and have alot of experience in team building and team management. I also worked on application development and have 2 years of experience. I am Beta MLSA and also worked in other communities and socities.
 
-Skills: Data Analytics* / Flutter dev / Front-end dev / SEO writing
-
-- 🔭 I’m currently working on Data Analytics 
-- 🌱 I’m currently learning Data Analytics 
-- 💬 Ask me about Data Analytics, Flutter dev, Front-end dev, SEO Writing, Community Management 
-- 📫 How to reach me: abdul.razzaq@studentambassadors.com 
+- 🔭 I’m currently working on Artifical Intelligence
+- 💬 Ask me about AI , Agents , GenAI , RAG , LLMs , Langchain , LangGraph , Data Analytics & Business Intelligence 
+- 📫 How to reach me: abdul.razzaq39390@gmail.com 
 - 😄 Pronouns: He/Him/His 
-- ⚡ Fun fact: I love three things more and more (Cricket, Tea and Memes) 
+- ⚡ Slogan : WE CAN DO IT TOGETHER!
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/razzaq-99)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abdul-razzaq-851715251/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abrzk_._/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/21509155)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@CodeProduct)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://personal-website-azure-xi.vercel.app/)  
