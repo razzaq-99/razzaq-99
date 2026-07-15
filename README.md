@@ -94,7 +94,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,mysql,mongodb,sqlite,docker,git,linux,postman,vscode,tailwind" />
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,fastapi,mysql,supabase,sqlite,docker,git,postman,vscode,streamlit" />
 
 </p>
 
