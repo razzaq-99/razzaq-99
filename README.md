@@ -2,7 +2,7 @@
 
 # Abdul Razzaq
 
-### AI Engineer • Software Engineer • Automation Enthusiast
+### Software Engineer • AI/ML Engineer 
 
 <img src="assets/profile.png" width="180" style="border-radius:50%;" />
 
@@ -17,18 +17,17 @@
 ```text
                      Abdul Razzaq
 
-OS          : Windows 11 / Ubuntu
+OS          : Windows 11 
 Location    : Karachi, Pakistan 🇵🇰
 Education   : B.E Software Engineering
 University  : Mehran University
 Role        : AI Engineer
 
-Languages   : Python, JavaScript, TypeScript,
-              SQL, PHP, C++
+Languages   : Python, JavaScript, MySQL
 
-Frontend    : React.js, Next.js, Tailwind CSS
+Libraries    : NumPy, Pandas, Matplotlib, Seaborn, Streamlit, OpenCv, SpaCy, NLTK
 
-Backend     : FastAPI, Flask, Node.js
+Backend     : FastAPI
 
 AI          : LangChain
               LangGraph
@@ -40,22 +39,21 @@ AI          : LangChain
               ChromaDB
 
 Automation  : n8n
-              Make
-              Zapier
+              
 
 Database    : MySQL
               SQLite
-              MongoDB
+              Supabase
+              VectorDB
 
 Cloud       : Vercel
-              Railway
-              Render
+              AWS
 
 Tools       : Git
               Docker
               VS Code
               Postman
-              Linux
+              
 
 Currently   : Building AI Agents
 ```
@@ -72,19 +70,22 @@ Role:
 
 Experience:
   AI Engineer @ Calon AI Solutions
+  AI/ML Intern @ ITSOLERA PVT LIMITED
 
 Interests:
   - AI Agents
   - LLMs
   - Automation
   - RAG Systems
-  - Full Stack Development
-  - QA Automation
+  - ML & DL
+  - GenAI
 
 Currently Learning:
   - Playwright
+  - SQA
+  - Software Testing
   - Advanced LangGraph
-  - Agentic AI
+  - Advance Agentic AI
 ```
 
 ---
@@ -103,9 +104,9 @@ Currently Learning:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=razzaq-99&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=razzaq-99&theme=github-dark-blue&hide_border=true"/>
 
 </p>
 
@@ -115,7 +116,7 @@ Currently Learning:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razzaq-99&layout=compact&theme=github_dark&hide_border=true"/>
 
 </p>
 
@@ -123,7 +124,7 @@ Currently Learning:
 
 ## Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=razzaq-99&theme=github-dark"/>
 
 ---
 
@@ -131,17 +132,14 @@ Currently Learning:
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINK">
+<a href="https://www.linkedin.com/in/abdulrazzaq039/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:abdul.razzaq39390@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
-</a>
 
 </p>
 
