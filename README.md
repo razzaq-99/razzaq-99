@@ -1,38 +1,158 @@
-<img src="https://github.com/razzaq-99/razzaq-99/blob/main/cover.png">
-## Hi 👋
+<div align="center">
 
-🚀 Exploring Agentic AI, GenAI, RAG & LLMs
-I’m currently working at the intersection of Agentic AI and Generative AI, building intelligent, autonomous solutions using RAG (Retrieval-Augmented Generation) and Large Language Models (LLMs). As a Beta Microsoft Learn Student Ambassador (MLSA), I actively contribute to the tech community and have led multiple teams with strong leadership and collaboration skills.
+# Abdul Razzaq
 
-💡 With a background in application development and over a year of hands-on experience, I’ve worked on various real-world projects and thrive in dynamic, fast-paced environments. I'm a quick learner passionate about leveraging AI and modern tech to solve impactful problems.
+### AI Engineer • Software Engineer • Automation Enthusiast
 
-🛠️ Skills:
-- Agentic AI
-- AI Automation
-- GenAI
-- RAG & LLMs
-- Autonomous Systems
+<img src="assets/profile.png" width="180" style="border-radius:50%;" />
 
+<br>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+AI+Agents;LangChain+%7C+LangGraph;RAG+Applications;Automation+Engineer;Software+Engineer" />
 
-- 🔭 I’m currently working on Artifical Intelligence
-- 💬 Ask me about AI , Agents , GenAI , RAG , LLMs , Langchain , LangGraph , Data Analytics & Business Intelligence 
-- 📫 How to reach me: abdul.razzaq39390@gmail.com 
-- 😄 Pronouns: He/Him/His 
-- ⚡ Slogan : WE CAN DO IT TOGETHER!
+</div>
 
+---
 
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+```text
+                     Abdul Razzaq
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=razzaq-99)](https://github.com/ryo-ma/github-profile-trophy)
+OS          : Windows 11 / Ubuntu
+Location    : Karachi, Pakistan 🇵🇰
+Education   : B.E Software Engineering
+University  : Mehran University
+Role        : AI Engineer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=razzaq-99)](https://github.com/anuraghazra/github-readme-stats)
+Languages   : Python, JavaScript, TypeScript,
+              SQL, PHP, C++
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=razzaq-99&show_icons=true)  
+Frontend    : React.js, Next.js, Tailwind CSS
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/razzaq-99/contributions?format=svg&private=false)  
+Backend     : FastAPI, Flask, Node.js
 
-![GitHub metrics](https://metrics.lecoq.io/razzaq-99)  
+AI          : LangChain
+              LangGraph
+              Ollama
+              Groq
+              OpenAI
+              Gemini
+              Pinecone
+              ChromaDB
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=razzaq-99)  
+Automation  : n8n
+              Make
+              Zapier
 
+Database    : MySQL
+              SQLite
+              MongoDB
+
+Cloud       : Vercel
+              Railway
+              Render
+
+Tools       : Git
+              Docker
+              VS Code
+              Postman
+              Linux
+
+Currently   : Building AI Agents
+```
+
+---
+
+# About Me
+
+```yaml
+Name: Abdul Razzaq
+
+Role:
+  AI Engineer
+
+Experience:
+  AI Engineer @ Calon AI Solutions
+
+Interests:
+  - AI Agents
+  - LLMs
+  - Automation
+  - RAG Systems
+  - Full Stack Development
+  - QA Automation
+
+Currently Learning:
+  - Playwright
+  - Advanced LangGraph
+  - Agentic AI
+```
+
+---
+
+## Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,fastapi,mysql,mongodb,sqlite,docker,git,linux,postman,vscode,tailwind" />
+
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true"/>
+
+</p>
+
+---
+
+## Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+---
+
+## Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark"/>
+
+---
+
+## Connect with Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+## Visitor Count
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat"/>
+
+---
+
+## Quote
+
+> "Turning ideas into intelligent products through AI."
