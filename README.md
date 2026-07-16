@@ -15,8 +15,7 @@
 ---
 
 ```text
-                     Abdul Razzaq
-
+                     
 OS          : Windows 11 
 Location    : Karachi, Pakistan 🇵🇰
 Education   : B.E Software Engineering
