@@ -4,7 +4,7 @@
 
 ### Software Engineer • AI/ML Engineer 
 
-<img src="Profile.jpeg" width="180" style="border-radius:50%;" />
+<!-- <img src="Profile.jpeg" width="180" style="border-radius:50%;" /> -->
 
 <br>
 
