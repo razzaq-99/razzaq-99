@@ -14,51 +14,6 @@
 
 ---
 
-```text
-                     
-OS          : Windows 11 
-Location    : Karachi, Pakistan 🇵🇰
-Education   : B.E Software Engineering
-University  : Mehran University
-Role        : AI Engineer
-
-Languages   : Python, JavaScript, MySQL
-
-Libraries    : NumPy, Pandas, Matplotlib, Seaborn, Streamlit, OpenCv, SpaCy, NLTK
-
-Backend     : FastAPI
-
-AI          : LangChain
-              LangGraph
-              Ollama
-              Groq
-              OpenAI
-              Gemini
-              Pinecone
-              ChromaDB
-
-Automation  : n8n
-              
-
-Database    : MySQL
-              SQLite
-              Supabase
-              VectorDB
-
-Cloud       : Vercel
-              AWS
-
-Tools       : Git
-              Docker
-              VS Code
-              Postman
-              
-
-Currently   : Building AI Agents
-```
-
----
-
 # About Me
 
 ```yaml
